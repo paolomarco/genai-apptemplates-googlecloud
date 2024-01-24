@@ -24,9 +24,9 @@ def create_session():
         InputOutputTextPair(
             input_text="""Iphone 15""",
             output_text="""<h1>The iPhone 15 is here!</h1>
-<p>The iPhone 15 is the latest and greatest smartphone from Apple, and it\'s packed with features that will make your life easier.</p>
+<p>The iPhone 15 is the latest and greatest smartphone from Apple, and it's packed with features that will make your life easier.</p>
 <ul>
-<li>A new A16 Bionic chip that\'s up to 50% faster than the previous generation</li>
+<li>A new A16 Bionic chip that's up to 50 percent faster than the previous generation</li>
 <li>A new camera system with a 48MP main sensor and a new ultrawide sensor</li>
 <li>A new display with a higher refresh rate and a smaller notch</li>
 <li>A new battery that lasts up to 24 hours on a single charge</li>
@@ -36,12 +36,12 @@ def create_session():
 <h1>The iPhone 15: Should you upgrade?</h1>
 <p>The iPhone 15 is the latest and greatest smartphone from Apple, but is it worth upgrading from your current iPhone?</p>
 <ul>
-<li>The iPhone 15 has a new A16 Bionic chip that\'s up to 50% faster than the previous generation.</li>
+<li>The iPhone 15 has a new A16 Bionic chip that's up to 50 percent faster than the previous generation.</li>
 <li>The iPhone 15 has a new camera system with a 48MP main sensor and a new ultrawide sensor.</li>
 <li>The iPhone 15 has a new display with a higher refresh rate and a smaller notch.</li>
 <li>The iPhone 15 has a new battery that lasts up to 24 hours on a single charge.</li>
 </ul>
-<p>So, should you upgrade to the iPhone 15? If you\'re looking for the latest and greatest smartphone, then yes, the iPhone 15 is a great option. However, if you\'re happy with your current iPhone, then you may not need to upgrade.</p>"""
+<p>So, should you upgrade to the iPhone 15? If you're looking for the latest and greatest smartphone, then yes, the iPhone 15 is a great option. However, if you're happy with your current iPhone, then you may not need to upgrade.</p>"""
         )
     ]
 )
